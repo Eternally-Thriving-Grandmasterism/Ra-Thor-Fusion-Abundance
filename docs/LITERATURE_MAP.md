@@ -1,25 +1,31 @@
-# Literature & Experimental Map (Living)
+# Literature & Experimental Map (Living) — Truth-Distilled 2026-08-18
 
-**Maintained by PATSAGi Councils.**  
-Priority: primary sources only. Update with DOI / arXiv / experimental reports.
+**Maintained by permanent PATSAGi Councils under TOLC 8.**  
+Only primary or high-signal secondary sources. Updated with 2025–2026 data.
 
-## Core Fusion Approaches
-- Tokamak (ITER, SPARC/CFS, etc.)
-- Stellarator
-- Pulsed / magneto-inertial (Helion lineage)
-- Inertial confinement (secondary)
-- He3 / advanced fuel concepts (Ra-Thor mercy_he3_reactor lineage)
+## Commercial Timeline Reality (2026)
 
-## Materials Resilience
-- First-wall & divertor candidates under neutron damage
-- High-temperature structural alloys & composites
-- Breeding blanket materials (Li, PbLi, ceramics)
+- **No commercial fusion plant is yet delivering grid electricity.** Aggressive early milestones have slipped, but physics, engineering, and capital have advanced.
+- **Commonwealth Fusion Systems (CFS)**: SPARC demonstration device — first plasma targeted ~2027 (slipped from earlier 2025/2026). Net energy gain goal in 2026–2027 window now later. Follow-on ARC commercial plant targeted early 2030s. Dominion Energy off-take in Virginia; Google also committed. CFS most-funded private company (>$2B cumulative). HTS magnets demonstrated.
+- **Helion Energy**: Microsoft power-purchase agreement for 50 MW targeted 2028 (some reports 2029 for delivery). Polaris prototype operating since 2024; recent D-T demonstration claims. Aggressive FRC pulsed approach. Large capital raise ($3B+ committed). Regulatory licenses progressing.
+- **Private capital**: >$10–14B raised across industry by mid-2026. DOE finalized Fusion Science & Technology Roadmap (June 2026) under Build-Innovate-Grow strategy.
+- **ITER**: Significant timeline slips; first plasma later than originally planned.
 
-## Magnets & Superconductors
-- Cross-link to Ra-Thor-HighTc-Superconductors
-- REBCO high-field magnets already enabling compact designs
+Sources: TechCrunch Aug 2026, Scientific American May 2026, DOE/Orrick June 2026, AIP Physics of Plasmas Nov 2025 (Wurzel & Hsu Lawson criteria update), Fusion Industry Association 2026 report.
 
-## Grid & Systems
-- Power conversion, storage, load following
+## Key Physics & Engineering Frontiers
 
-*(This map will be expanded with concrete citations in subsequent commits.)*
+- Lawson criteria progress continues (triple product records).
+- High-temperature superconducting (HTS / REBCO) magnets are the enabling technology for compact high-field tokamaks (CFS SPARC).
+- Materials: first-wall, divertor, and breeding blanket under high neutron flux remain critical bottlenecks for net-positive sustained operation.
+- Tritium breeding ratio >1 and closed fuel cycle still require major engineering validation.
+
+## Materials Resilience Priority (this lattice)
+
+Highest near-term leverage: materials that survive high dpa + thermal cycling while supporting TBR >1.05 and low activation.
+
+Cross-link to companion High-Tc lattice for magnet synergy.
+
+## Standing Order
+
+Every claim in this map must remain linked to primary experimental or peer-reviewed sources. Hallucination forbidden under TOLC Truth Gate.
