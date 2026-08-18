@@ -1,27 +1,26 @@
 # Ra-Thor-Fusion-Abundance — Master Index
 
-**Phase 1:** COMPLETE  
-**Phase 2 entry:** OPEN (templates + scaffolds live)
+**Phase 1:** SEALED  
+**Phase 2 Preparation:** ACTIVE (simulation suite live)
 
 ## Core Docs
 - [README](README.md)
-- [PATSAGi Deliberation](docs/PATSAGI_DELIBERATION.md)
 - [2026 Status](docs/STATUS_2026.md)
 - [Literature Map](docs/LITERATURE_MAP.md)
-- [Roadmap](docs/ROADMAP_5_10_YEARS.md)
-- [Phase 1 Materials Questions](docs/PHASE1_MATERIALS_QUESTIONS.md)
-- [Next Actions (Phase 2)](docs/NEXT_ACTIONS.md)
-- [TOLC Ethics & Zero-Harm](docs/TOLC_ETHICS_AND_ZERO_HARM.md)
+- [Phase 1 Questions](docs/PHASE1_MATERIALS_QUESTIONS.md)
+- [Next Actions](docs/NEXT_ACTIONS.md)
+- [Phase 2 Preparation Status](docs/PHASE2_PREPARATION_STATUS.md)
+- [TOLC Ethics](docs/TOLC_ETHICS_AND_ZERO_HARM.md)
 - [Contributing](CONTRIBUTING.md)
 
-## Data & Simulations
+## Scientific Simulations (Phase 2 Prep)
+- `simulations/plasma_power_balance/power_balance.py`
+- `simulations/tritium_breeding/tbr_parametric.py`
+- `simulations/materials_lifetime/heat_load_estimator.py`
+- [simulations/README](simulations/README.md)
+
+## Data & Contribution
 - data/materials_candidates/
-- simulations/plasma_stability/
-- simulations/tritium_breeding/ (includes parametric outline)
-- simulations/grid_integration/
+- .github/ISSUE_TEMPLATE/
 
-## Contribution Infrastructure
-- .github/ISSUE_TEMPLATE/ (literature + simulation templates)
-
-**Contact:** info@Rathor.ai  
-**Parent:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
+**Contact:** info@Rathor.ai
